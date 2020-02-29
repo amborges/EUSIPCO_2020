@@ -1,0 +1,82 @@
+Warning: auto-alt-ref > 1 is deprecated... setting auto-alt-ref=1
+
+Codec: AOMedia Project AV1 Encoder 1.0.0-errata1-avif-62-gdb8f273c9
+Source file: vp9_decoded_video.y4m File Type: Y4M Format: I42016
+Destination file: webm/av1_ori_20.webm
+Coding path: HBD
+Encoder parameters:
+    g_usage                      = 0
+    g_threads                    = 1
+    g_profile                    = 0
+    g_w                          = 1920
+    g_h                          = 1080
+    g_bit_depth                  = 10
+    g_input_bit_depth            = 10
+    g_timebase.num               = 816000
+    g_timebase.den               = 49000000
+    g_error_resilient            = 0
+    g_pass                       = 0
+    g_lag_in_frames              = 19
+    large_scale_tile             = 0
+    rc_dropframe_thresh          = 0
+    rc_resize_mode               = 0
+    rc_resize_denominator        = 8
+    rc_resize_kf_denominator     = 8
+    rc_superres_mode             = 0
+    rc_superres_denominator      = 8
+    rc_superres_kf_denominator   = 8
+    rc_superres_qthresh          = 63
+    rc_superres_kf_qthresh       = 32
+    rc_end_usage                 = 3
+    rc_target_bitrate            = 256
+    rc_min_quantizer             = 0
+    rc_max_quantizer             = 63
+    rc_undershoot_pct            = 25
+    rc_overshoot_pct             = 25
+    rc_buf_sz                    = 6000
+    rc_buf_initial_sz            = 4000
+    rc_buf_optimal_sz            = 5000
+    rc_2pass_vbr_bias_pct        = 50
+    rc_2pass_vbr_minsection_pct  = 0
+    rc_2pass_vbr_maxsection_pct  = 2000
+    fwd_kf_enabled               = 0
+    kf_mode                      = 1
+    kf_min_dist                  = 0
+    kf_max_dist                  = 9999
+    super_block_size             = 0
+    max_partition_size           = 128
+    min_partition_size           = 4
+    disable_ab_partition_type    = 0
+    disable_rect_partition_type  = 0
+    disable_1to4_partition_type  = 0
+    disable_flip_idtx            = 0
+    disable_cdef                 = 0
+    disable_lr                   = 0
+    disable_obmc                 = 0
+    disable_warp_motion          = 0
+    disable_global_motion        = 0
+    disable_dist_wtd_comp        = 0
+    disable_diff_wtd_comp        = 0
+    disable_inter_intra_comp     = 0
+    disable_masked_comp          = 0
+    disable_one_sided_comp       = 0
+    disable_palette              = 0
+    disable_intrabc              = 0
+    disable_cfl                  = 0
+    disable_smooth_intra         = 0
+    disable_filter_intra         = 0
+    disable_dual_filter          = 0
+    disable_intra_angle_delta    = 0
+    disable_intra_edge_filter    = 0
+    disable_tx_64x64             = 0
+    disable_smooth_inter_intra   = 0
+    disable_inter_inter_wedge    = 0
+    disable_inter_intra_wedge    = 0
+    disable_paeth_intra          = 0
+    disable_trellis_quant        = 3
+    disable_ref_frame_mv         = 0
+    reduced_reference_set        = 0
+    reduced_tx_type_set          = 0
+Pass 1/2 frame    1/0          0B       0 us 0.00 fpm [ETA  unknown] [KPass 1/2 frame    2/0          0B   75737 us 26.41 fps [ETA  unknown] [KPass 1/2 frame    3/0          0B   77349 us 38.79 fps [ETA  unknown] [KPass 1/2 frame    4/0          0B   78899 us 50.70 fps [ETA  unknown] [KPass 1/2 frame    5/0          0B   80454 us 62.15 fps [ETA  unknown] [KPass 1/2 frame    6/0          0B   82016 us 73.16 fps [ETA  unknown] [KPass 1/2 frame    7/0          0B   83620 us 83.71 fps [ETA  unknown] [KPass 1/2 frame    8/0          0B   85237 us 93.86 fps [ETA  unknown] [KPass 1/2 frame    9/0          0B   86818 us 103.67 fps [ETA  unknown] [KPass 1/2 frame   10/0          0B   88386 us 113.14 fps [ETA  unknown] [KPass 1/2 frame   11/0          0B   89975 us 122.26 fps [ETA  unknown] [KPass 1/2 frame   12/0          0B   91536 us 131.10 fps [ETA  unknown] [KPass 1/2 frame   13/0          0B   93070 us 139.68 fps [ETA  unknown] [KPass 1/2 frame   14/0          0B   94664 us 147.89 fps [ETA  unknown] [KPass 1/2 frame   15/0          0B   96305 us 155.76 fps [ETA  unknown] [KPass 1/2 frame   16/0          0B   98016 us 163.24 fps [ETA  unknown] [KPass 1/2 frame   17/0          0B   99665 us 170.57 fps [ETA  unknown] [KPass 1/2 frame   18/0          0B  101269 us 177.74 fps [ETA  unknown] [KPass 1/2 frame   19/0          0B  102836 us 184.76 fps [ETA  unknown] [KPass 1/2 frame   20/1        208B  201601 us 99.21 fps [ETA  0:00:11] [KPass 1/2 frame   21/2        416B 1949095 us 10.77 fps [ETA  0:00:12] [KPass 1/2 frame   22/3        624B 4443717 us 4.95 fps [ETA  0:00:14] [KPass 1/2 frame   23/4        832B 6776435 us 3.39 fps [ETA  0:00:15] [KPass 1/2 frame   24/5       1040B 9101994 us 2.64 fps [ETA  0:00:17] [KPass 1/2 frame   25/6       1248B   11484 ms 2.18 fps [ETA  0:00:18] [KPass 1/2 frame   26/7       1456B   13753 ms 1.89 fps [ETA  0:00:20] [KPass 1/2 frame   27/8       1664B   15999 ms 1.69 fps [ETA  0:00:22] [KPass 1/2 frame   28/9       1872B   18235 ms 1.54 fps [ETA  0:00:24] [KPass 1/2 frame   29/10      2080B   20430 ms 1.42 fps [ETA  0:00:26] [KPass 1/2 frame   30/11      2288B   22557 ms 1.33 fps [ETA  0:00:28] [KPass 1/2 frame   31/12      2496B   24746 ms 1.25 fps [ETA  0:00:30] [KPass 1/2 frame   32/13      2704B   26962 ms 1.19 fps [ETA  0:00:33] [KPass 1/2 frame   33/14      2912B   29205 ms 1.13 fps [ETA  0:00:35] [KPass 1/2 frame   34/15      3120B   31446 ms 1.08 fps [ETA  0:00:37] [KPass 1/2 frame   35/16      3328B   33737 ms 1.04 fps [ETA  0:00:39] [KPass 1/2 frame   36/17      3536B   35569 ms 1.01 fps [ETA  0:00:41] [KPass 1/2 frame   37/18      3744B   37905 ms 58.57 fpm [ETA  0:00:43] [KPass 1/2 frame   38/19      3952B   40244 ms 56.65 fpm [ETA  0:00:45] [KPass 1/2 frame   39/20      4160B   42694 ms 54.81 fpm [ETA  0:00:47] [KPass 1/2 frame   40/21      4368B   45135 ms 53.17 fpm [ETA  0:00:49] [KPass 1/2 frame   41/22      4576B   47503 ms 51.79 fpm [ETA  0:00:50] [KPass 1/2 frame   42/23      4784B   49936 ms 50.46 fpm [ETA  0:00:51] [KPass 1/2 frame   43/24      4992B   52326 ms 49.31 fpm [ETA  0:00:52] [KPass 1/2 frame   44/25      5200B   54728 ms 48.24 fpm [ETA  0:00:53] [KPass 1/2 frame   45/26      5408B   57136 ms 47.26 fpm [ETA  0:00:54] [KPass 1/2 frame   46/27      5616B   59609 ms 46.30 fpm [ETA  0:00:54] [KPass 1/2 frame   47/28      5824B   62088 ms 45.42 fpm [ETA  0:00:54] [KPass 1/2 frame   48/29      6032B   64582 ms 44.59 fpm [ETA  0:00:54] [KPass 1/2 frame   49/30      6240B   67115 ms 43.80 fpm [ETA  0:00:54] [KPass 1/2 frame   50/31      6448B   69611 ms 43.10 fpm [ETA  0:00:53] [KPass 1/2 frame   51/32      6656B   72071 ms 42.46 fpm [ETA  0:00:53] [KPass 1/2 frame   52/33      6864B   73817 ms 42.27 fpm [ETA  0:00:52] [KPass 1/2 frame   53/34      7072B   76262 ms 41.70 fpm [ETA  0:00:51] [KPass 1/2 frame   54/35      7280B   78648 ms 41.20 fpm [ETA  0:00:50] [KPass 1/2 frame   55/36      7488B   80949 ms 40.77 fpm [ETA  0:00:48] [KPass 1/2 frame   56/37      7696B   83155 ms 40.41 fpm [ETA  0:00:47] [KPass 1/2 frame   57/38      7904B   85348 ms 40.07 fpm [ETA  0:00:45] [KPass 1/2 frame   58/39      8112B   87618 ms 39.72 fpm [ETA  0:00:44] [KPass 1/2 frame   59/40      8320B   89852 ms 39.40 fpm [ETA  0:00:42] [KPass 1/2 frame   60/41      8528B   92049 ms 39.11 fpm [ETA  0:00:40] [K[KPass 1/2 frame   60/61     12688B    1691b/f  101542b/s  127508 ms (0.47 fps)[K
+Pass 2/2 frame    1/0          0B  127508 ms 0.47 fpm [ETA  unknown] [KPass 2/2 frame    2/0          0B  127583 ms 0.94 fpm [ETA  unknown] [KPass 2/2 frame    3/0          0B  127585 ms 1.41 fpm [ETA  unknown] [KPass 2/2 frame    4/0          0B  127587 ms 1.88 fpm [ETA  unknown] [KPass 2/2 frame    5/0          0B  127588 ms 2.35 fpm [ETA  unknown] [KPass 2/2 frame    6/0          0B  127590 ms 2.82 fpm [ETA  unknown] [KPass 2/2 frame    7/0          0B  127592 ms 3.29 fpm [ETA  unknown] [KPass 2/2 frame    8/0          0B  127593 ms 3.76 fpm [ETA  unknown] [KPass 2/2 frame    9/0          0B  127595 ms 4.23 fpm [ETA  unknown] [KPass 2/2 frame   10/0          0B  127596 ms 4.70 fpm [ETA  unknown] [KPass 2/2 frame   11/0          0B  127598 ms 5.17 fpm [ETA  unknown] [KPass 2/2 frame   12/0          0B  127600 ms 5.64 fpm [ETA  unknown] [KPass 2/2 frame   13/0          0B  127601 ms 6.11 fpm [ETA  unknown] [KPass 2/2 frame   14/0          0B  127603 ms 6.58 fpm [ETA  unknown] [KPass 2/2 frame   15/0          0B  127605 ms 7.05 fpm [ETA  unknown] [KPass 2/2 frame   16/0          0B  127606 ms 7.52 fpm [ETA  unknown] [KPass 2/2 frame   17/0          0B  127608 ms 7.99 fpm [ETA  unknown] [KPass 2/2 frame   18/0          0B  127609 ms 8.46 fpm [ETA  unknown] [KPass 2/2 frame   19/0          0B  127611 ms 8.93 fpm [ETA  unknown] 47.413 46.847 48.330 49.395  245050F[KPass 2/2 frame   20/1     245050B  600036 ms 2.00 fpm [ETA 16:23:20] 46.161 45.254 48.051 49.886  820619F[KPass 2/2 frame   21/2    1065669B 2907088 ms 0.43 fpm [ETA  unknown] 45.300 44.275 47.748 49.676   93186F[KPass 2/2 frame   22/3    1158855B 3825533 ms 0.35 fpm [ETA  unknown] 45.917 44.959 48.164 49.722       5F[KPass 2/2 frame   23/4    1158860B 3825541 ms 0.36 fpm [ETA 15:33:20] 44.306 43.309 46.754 48.314  226135F[KPass 2/2 frame   24/5    1384995B 6293120 ms 0.23 fpm [ETA  unknown] 45.173 44.181 47.580 49.153       5F[KPass 2/2 frame   25/6    1385000B 6293129 ms 0.24 fpm [ETA  unknown] 44.549 43.486 47.333 48.941   96729F[KPass 2/2 frame   26/7    1481729B 7467227 ms 0.21 fpm [ETA  unknown] 46.275 45.402 48.273 49.483       5F[KPass 2/2 frame   27/8    1481734B 7467235 ms 0.22 fpm [ETA 14:26:40] 43.945 43.043 46.109 47.229  264346F[KPass 2/2 frame   28/9    1746080B 10538082 ms 0.16 fpm [ETA  unknown] 44.103 43.044 46.899 48.430  103419F[KPass 2/2 frame   29/10   1849499B 11928499 ms 0.15 fpm [ETA  unknown] 44.904 43.899 47.495 48.798       5F[KPass 2/2 frame   30/11   1849504B 11928508 ms 0.15 fpm [ETA  unknown] 44.210 43.128 47.156 48.638  239681F[KPass 2/2 frame   31/12   2089185B 14948041 ms 0.12 fpm [ETA  unknown] 44.125 43.099 46.835 48.119       5F[KPass 2/2 frame   32/13   2089190B 14948049 ms 0.13 fpm [ETA  unknown] 43.802 42.662 47.112 48.570  106489F[KPass 2/2 frame   33/14   2195679B 16340540 ms 0.12 fpm [ETA  unknown] 45.045 43.840 49.118 49.859       5F[KPass 2/2 frame   34/15   2195684B 16340549 ms 0.12 fpm [ETA  unknown] 43.954 42.806 47.379 48.704  1236935F[KPass 2/2 frame   35/16   3432619B 24516853 ms 0.09 fpm [ETA  unknown] 43.415 42.521 45.605 46.587       5F[KPass 2/2 frame   36/17   3432624B 24516862 ms 0.09 fpm [ETA  unknown] 43.058 41.966 46.172 47.386  107783F[KPass 2/2 frame   37/18   3540407B 25904479 ms 0.09 fpm [ETA  unknown] 44.023 42.998 46.837 47.881       5F[KPass 2/2 frame   38/19   3540412B 25904487 ms 0.09 fpm [ETA  unknown] 43.246 42.139 46.449 47.689  293779F[KPass 2/2 frame   39/20   3834191B 29369920 ms 0.08 fpm [ETA  unknown] 43.102 42.083 45.912 46.880       5F[KPass 2/2 frame   40/21   3834196B 29369929 ms 0.08 fpm [ETA  unknown] 42.752 41.635 46.070 47.176  125322F[KPass 2/2 frame   41/22   3959518B 30993591 ms 0.08 fpm [ETA  unknown] 44.652 43.721 47.092 47.901       5F[KPass 2/2 frame   42/23   3959523B 30993600 ms 0.08 fpm [ETA  unknown] 43.185 42.130 46.138 47.243  547560F[KPass 2/2 frame   43/24   4507083B 37222055 ms 0.07 fpm [ETA  unknown] 42.829 41.944 45.035 45.885       5F[KPass 2/2 frame   44/25   4507088B 37222064 ms 0.07 fpm [ETA  unknown] 42.574 41.490 45.713 46.778  137123F[KPass 2/2 frame   45/26   4644211B 39027757 ms 0.07 fpm [ETA  unknown] 43.385 42.362 46.187 47.225       5F[KPass 2/2 frame   46/27   4644216B 39027765 ms 0.07 fpm [ETA  unknown] 43.043 41.937 46.205 47.513  368645F[KPass 2/2 frame   47/28   5012861B 43261805 ms 0.07 fpm [ETA  unknown] 42.920 41.885 45.819 46.786       5F[KPass 2/2 frame   48/29   5012866B 43261813 ms 0.07 fpm [ETA  unknown] 42.710 41.552 46.291 47.392  149988F[KPass 2/2 frame   49/30   5162854B 45002738 ms 0.07 fpm [ETA  unknown] 44.401 43.222 48.341 48.966       5F[KPass 2/2 frame   50/31   5162859B 45002747 ms 0.07 fpm [ETA  unknown] 43.225 42.081 46.685 47.857  1201316F[KPass 2/2 frame   51/32   6364175B 54013700 ms 0.06 fpm [ETA  unknown] 42.882 41.926 45.445 46.246       5F[KPass 2/2 frame   52/33   6364180B 54013708 ms 0.06 fpm [ETA  unknown] 42.512 41.372 45.957 47.113  128611F[KPass 2/2 frame   53/34   6492791B 55657338 ms 0.06 fpm [ETA  unknown] 43.385 42.313 46.460 47.505       5F[KPass 2/2 frame   54/35   6492796B 55657347 ms 0.06 fpm [ETA  unknown] 42.692 41.551 46.093 47.369  285958F[KPass 2/2 frame   55/36   6778754B 59088505 ms 0.06 fpm [ETA  unknown] 42.635 41.578 45.638 46.649       5F[KPass 2/2 frame   56/37   6778759B 59088514 ms 0.06 fpm [ETA  unknown] 42.387 41.249 45.784 47.011  123442F[KPass 2/2 frame   57/38   6902201B 60727000 ms 0.06 fpm [ETA  unknown] 44.279 43.324 46.802 47.679       5F[KPass 2/2 frame   58/39   6902206B 60727009 ms 0.06 fpm [ETA  unknown] 42.797 41.698 45.953 47.165  454779F[KPass 2/2 frame   59/40   7356985B 66348852 ms 0.05 fpm [ETA  unknown] 42.686 41.752 45.079 46.023       5F[KPass 2/2 frame   60/41   7356990B 66348860 ms 0.05 fpm [ETA  unknown] 42.395 41.266 45.711 46.999  115682F[K43.168 42.092 46.223 47.369       5F[K42.695 41.559 46.019 47.398  259418F[K42.554 41.469 45.665 46.801       5F[K42.371 41.198 45.973 47.287  117761F[K43.574 42.368 47.678 48.378       5F[K42.153 40.956 45.965 47.169  1010633F[K41.822 40.778 44.719 45.804  117729F[K42.972 41.926 45.875 46.981       5F[K42.155 40.996 45.678 46.934  145588F[K42.087 40.878 45.936 47.249  141552F[K44.025 42.965 47.092 48.004       5F[K42.217 40.996 46.204 47.417  342878F[K41.720 40.567 45.311 46.322  125205F[K43.123 42.020 46.402 47.405       5F[K42.299 41.081 46.241 47.502  133128F[K42.400 41.161 46.516 47.741  119621F[K46.082 45.193 48.395 49.058       5F[K42.144 41.060 45.374 46.233  123802F[K[KPass 2/2 frame   60/60   10110022B 1348002b/f 80946198b/s 95705689 ms (0.00 fps)[K
+Stream 0 PSNR (Overall/Avg/Y/U/V) 43.340 43.499 42.437 46.518 47.681 80946254 bps 95705689 ms
